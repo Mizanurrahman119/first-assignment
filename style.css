@@ -1,0 +1,47 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0px
+}
+.section1{
+    display: flex;
+    background-color: gray;
+}
+.span{
+    color: coral;
+}
+.nav-first{
+    width: 50%;
+    height: 50%;
+    margin-top: 2%;
+    padding-left: 20%;
+
+}
+.nav-second{
+    width: 50%;
+   
+
+}
+.nav-second img{
+    width: 80%;
+    height: 80%;
+}
+a{
+    padding: 1% 3%;
+    background-color: indianred;
+    border-radius: 40%;
+    text-decoration: none;
+}
+
+.section2{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+  
+}
+.nav-third img{
+    width: 80%;
+    height: 80%;
+}
+.nav-fourth{
+    width: 50%;
+    padding-right: 20% ;
+}
