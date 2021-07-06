@@ -2,6 +2,90 @@ body{
     font-family: 'Roboto', sans-serif;
     margin:0px
 }
+header{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.about{
+    width: 15%;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: hotpink;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    position: relative;
+    
+}
+.technology{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.download{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.notice{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.gallary{
+    width: 15%;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: hotpink;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.about:hover{
+    color: navy;
+    background: red;
+
+}
+.technology:hover{
+    color: navy;
+    background: red;
+
+}
+.download:hover{
+    color: navy;
+    background: red;
+
+}
+.notice:hover{
+    color: navy;
+    background: red;
+
+}
+.gallary:hover{
+    color: navy;
+    background: red;
+}
 .section1{
     display: flex;
 }
@@ -121,14 +205,17 @@ a{
     width: 75%;
     margin-top:5%;
     margin-bottom: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
-    padding-left: 10%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-left: 12%;
+    padding-bottom: 5%;
     border-radius: 1%;
+    background-color: rgb(246, 246, 248);
     box-shadow: 2px 2px 15px 15px gray
 }
 .youtube{
     width: 30%;
+    padding-left: 8%;
 
 
 }
