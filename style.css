@@ -56,7 +56,7 @@ a{
 }
 .section3{
     display:flex;
-    margin-left: 5%;
+    margin-left: 3%;
 }
 .nav-five img{
     width: 90%;
@@ -120,7 +120,7 @@ a{
     height: 80%;
     width: 75%;
     margin-top:5%;
-    margin-bottom: 20%;
+    margin-bottom: 10%;
     margin-left: 10%;
     margin-right: 10%;
     padding-left: 10%;
@@ -139,4 +139,19 @@ a{
 .twiter{
     width: 30%;
 
+}
+.foter{
+    height: 90%;
+    margin-bottom: 10%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+.span1{
+    color: coral;
+}
+.span2{
+    color:gray;
 }
